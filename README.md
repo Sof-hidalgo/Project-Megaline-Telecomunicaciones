@@ -7,7 +7,7 @@ Este proyecto analiza el comportamiento de los clientes de la empresa de telecom
 ### 🎯 Objetivo del proyecto:
 Identificar cuál de los dos planes de prepago de Megaline es más rentable, utilizando análisis de datos y técnicas estadísticas para optimizar la estrategia de inversión en publicidad.
 
-###📊 Conclusiones finales:
+### 📊 Conclusiones finales:
 - El plan Ultimate tiene ingresos más consistentes, con un ingreso promedio de $72.31 y menor variabilidad en comparación con el plan Surf ($60.70 de ingreso promedio con mayor desviación estándar).
 - El 41% de los usuarios de Megaline consumen más datos de los incluidos en su plan, lo que representa una oportunidad de ingresos adicionales para la empresa.
 - Los usuarios del plan Surf generan ingresos más variables, con casos en los que superan ampliamente el pago base debido al consumo extra de minutos, mensajes y datos.
